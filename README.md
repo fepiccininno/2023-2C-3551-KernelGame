@@ -8,7 +8,7 @@
 
 ## Descripción
 
-Proyecto plantilla para los trabajos prácticos de la asignatura electiva [Técnicas de Gráficos por Computadora](http://tgc-utn.github.io/) (TGC) en la carrera de Ingeniería en Sistemas de Información. Universidad Tecnológica Nacional, Facultad Regional Buenos Aires (UTN-FRBA).
+Trabajo práctico de la asignatura electiva [Técnicas de Gráficos por Computadora](http://tgc-utn.github.io/) (TGC) en la carrera de Ingeniería en Sistemas de Información. Universidad Tecnológica Nacional, Facultad Regional Buenos Aires (UTN-FRBA).
 
 ## Configuración del entorno de desarrollo
 
@@ -17,6 +17,9 @@ Los pasos a seguir según su sistema operativo se pueden leer en el siguiente do
 Afuera del mundo Windows, vas a necesitar la ayudar de [Wine](https://www.winehq.org) para los shaders, por lo menos por [ahora](https://github.com/MonoGame/MonoGame/issues/2167).
 
 Los recursos usados se almacenan utilizando [Git LFS](https://git-lfs.github.com), con lo cual antes de clonar el repositorio les conviene tenerlo instalado así es automático el pull o si ya lo tienen pueden hacer `git lfs pull`.
+
+## Consigna elegida
+Opcion 2: Tank Wars - World of Tanks - Tanques
 
 ## Integrantes
 | Garcia Fariñas, Guadalupe | Morales Vranic, Santiago | Pedaci, Marcos | Piccininno, Franco | Vazquez, Juan Martin |
